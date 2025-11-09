@@ -1,0 +1,549 @@
+{
+  "buildingInfo": {
+    "name": "IMM 94",
+    "address": "Manaos",
+    "year": 2022,
+    "units": 7
+  },
+  "financialSettings": {
+    "defaultContribution": 50,
+    "dueDate": 10,
+    "currency": "mad",
+    "autoReminders": true,
+    "autoGenerateMonthly": true
+  },
+  "expenseTypes": [
+    {
+      "id": "electricity",
+      "name": "Électricité",
+      "icon": "bolt",
+      "color": "warning",
+      "enabled": true
+    },
+    {
+      "id": "cleaning",
+      "name": "Nettoyage",
+      "icon": "broom",
+      "color": "info",
+      "enabled": true
+    },
+    {
+      "id": "maintenance",
+      "name": "Entretien",
+      "icon": "tools",
+      "color": "secondary",
+      "enabled": true
+    },
+    {
+      "id": "other",
+      "name": "Autre",
+      "icon": "file-invoice-dollar",
+      "color": "success",
+      "enabled": true
+    }
+  ],
+  "owners": [
+    {
+      "id": 1762113047077,
+      "name": "Nabil",
+      "apartment": "4",
+      "phone": "+212 660-000018",
+      "contribution": 50
+    },
+    {
+      "id": 1762114526416,
+      "name": "Samira",
+      "apartment": "RC",
+      "phone": "+212 667-476643",
+      "contribution": 50
+    },
+    {
+      "id": 1762114553154,
+      "name": "Ahmed",
+      "apartment": "1",
+      "phone": "+212 660-939675",
+      "contribution": 50
+    },
+    {
+      "id": 1762114584729,
+      "name": "Mohammed",
+      "apartment": "2",
+      "phone": "+212 662-564833",
+      "contribution": 50
+    },
+    {
+      "id": 1762114683162,
+      "name": "Abdallah",
+      "apartment": "3",
+      "phone": "+212 620-999247",
+      "contribution": 50
+    },
+    {
+      "id": 1762114704948,
+      "name": "Khadija",
+      "apartment": "5",
+      "phone": "+212 627-189187",
+      "contribution": 50
+    },
+    {
+      "id": 1762114737411,
+      "name": "Amine",
+      "apartment": "6",
+      "phone": "+212 662-057817",
+      "contribution": 50
+    }
+  ],
+  "contributions": [
+    {
+      "id": 1762120985197,
+      "reference": "COT-2022-001",
+      "ownerId": 1762113047077,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985198,
+      "reference": "COT-2022-003",
+      "ownerId": 1762114526416,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985200,
+      "reference": "COT-2022-005",
+      "ownerId": 1762114553154,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985201,
+      "reference": "COT-2022-007",
+      "ownerId": 1762114584729,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985202,
+      "reference": "COT-2022-009",
+      "ownerId": 1762114683162,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985203,
+      "reference": "COT-2022-011",
+      "ownerId": 1762114704948,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985204,
+      "reference": "COT-2022-013",
+      "ownerId": 1762114737411,
+      "period": "2022",
+      "amount": 320,
+      "dueDate": "2022",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985205,
+      "reference": "COT-2023-001",
+      "ownerId": 1762113047077,
+      "period": "Novembre 2023",
+      "amount": 650,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985206,
+      "reference": "COT-2023-003",
+      "ownerId": 1762114526416,
+      "period": "Novembre 2023",
+      "amount": 650,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985207,
+      "reference": "COT-2023-005",
+      "ownerId": 1762114553154,
+      "period": "Novembre 2023",
+      "amount": 600,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985208,
+      "reference": "COT-2023-007",
+      "ownerId": 1762114584729,
+      "period": "2023",
+      "amount": 650,
+      "dueDate": "2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985209,
+      "reference": "COT-2023-009",
+      "ownerId": 1762114683162,
+      "period": "Novembre 2023",
+      "amount": 650,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985210,
+      "reference": "COT-2023-011",
+      "ownerId": 1762114704948,
+      "period": "Novembre 2023",
+      "amount": 650,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985211,
+      "reference": "COT-2023-013",
+      "ownerId": 1762114737411,
+      "period": "Novembre 2023",
+      "amount": 650,
+      "dueDate": "10/11/2023",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985212,
+      "reference": "COT-2024-001",
+      "ownerId": 1762113047077,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985213,
+      "reference": "COT-2024-003",
+      "ownerId": 1762114526416,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985214,
+      "reference": "COT-2024-005",
+      "ownerId": 1762114553154,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985215,
+      "reference": "COT-2024-007",
+      "ownerId": 1762114584729,
+      "period": "2024",
+      "amount": 600,
+      "dueDate": "31/12/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985216,
+      "reference": "COT-2024-009",
+      "ownerId": 1762114683162,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985217,
+      "reference": "COT-2024-011",
+      "ownerId": 1762114704948,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985218,
+      "reference": "COT-2024-013",
+      "ownerId": 1762114737411,
+      "period": "Novembre 2024",
+      "amount": 600,
+      "dueDate": "10/11/2024",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985220,
+      "reference": "COT-2025-003",
+      "ownerId": 1762114526416,
+      "period": "Novembre 2025",
+      "amount": 500,
+      "dueDate": "10/10/2025",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985221,
+      "reference": "COT-2025-005",
+      "ownerId": 1762114553154,
+      "period": "Novembre 2025",
+      "amount": 505,
+      "dueDate": "10/11/2025",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762120985223,
+      "reference": "COT-2025-009",
+      "ownerId": 1762114683162,
+      "period": "Novembre 2025",
+      "amount": 500,
+      "dueDate": "10/11/2025",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762121540592,
+      "reference": "COT-2025-025",
+      "ownerId": 1762114584729,
+      "period": "octobre 2025",
+      "amount": 500,
+      "dueDate": "14/10/2025",
+      "status": "paid",
+      "paymentDate": "2025-11-02"
+    },
+    {
+      "id": 1762121579070,
+      "reference": "COT-2025-026",
+      "ownerId": 1762113047077,
+      "period": "Oct 2025",
+      "amount": 500,
+      "dueDate": "14/10/2025",
+      "status": "paid",
+      "paymentDate": "2025-11-02"
+    },
+    {
+      "id": 1762121597011,
+      "reference": "COT-2025-027",
+      "ownerId": 1762114704948,
+      "period": "Oct 2025",
+      "amount": 500,
+      "dueDate": "14/10/2025",
+      "status": "paid",
+      "paymentDate": "2025-11-02"
+    },
+    {
+      "id": 1762121610021,
+      "reference": "COT-2025-028",
+      "ownerId": 1762114737411,
+      "period": "Oct 2025",
+      "amount": 500,
+      "dueDate": "14/10/2025",
+      "status": "paid",
+      "paymentDate": "2025-11-02"
+    },
+    {
+      "id": 1762122635655,
+      "reference": "COT-2025-029",
+      "ownerId": 1762113047077,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "10/12/2025",
+      "status": "paid",
+      "paymentDate": "02/11/2025"
+    },
+    {
+      "id": 1762122801725,
+      "reference": "COT-2025-031",
+      "ownerId": 1762114553154,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "14/12/2025",
+      "status": "pending",
+      "paymentDate": ""
+    },
+    {
+      "id": 1762122809511,
+      "reference": "COT-2025-032",
+      "ownerId": 1762114584729,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "14/12/2025",
+      "status": "pending",
+      "paymentDate": null
+    },
+    {
+      "id": 1762122816826,
+      "reference": "COT-2025-033",
+      "ownerId": 1762114683162,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "14/12/2025",
+      "status": "pending",
+      "paymentDate": null
+    },
+    {
+      "id": 1762122821703,
+      "reference": "COT-2025-034",
+      "ownerId": 1762114704948,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "14/12/2025",
+      "status": "pending",
+      "paymentDate": null
+    },
+    {
+      "id": 1762122829048,
+      "reference": "COT-2025-035",
+      "ownerId": 1762114737411,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "14/12/2025",
+      "status": "pending",
+      "paymentDate": null
+    },
+    {
+      "id": 1762123610183,
+      "reference": "COT-2025-035",
+      "ownerId": 1762114526416,
+      "period": "Novembre 2025",
+      "amount": 50,
+      "dueDate": "09/11/2025",
+      "status": "pending",
+      "paymentDate": null
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1762120429327,
+      "type": "cleaning",
+      "description": "Femme de ménage",
+      "amount": 900,
+      "date": "05/06/2022"
+    },
+    {
+      "id": 1762120429328,
+      "type": "cleaning",
+      "description": "Femme de ménage",
+      "amount": 2420,
+      "date": "05/06/2023"
+    },
+    {
+      "id": 1762120429329,
+      "type": "cleaning",
+      "description": "Femme de ménage",
+      "amount": 2450,
+      "date": "05/06/2024"
+    },
+    {
+      "id": 1762120429330,
+      "type": "cleaning",
+      "description": "Femme de ménage",
+      "amount": 1850,
+      "date": "05/06/2025"
+    },
+    {
+      "id": 1762120429331,
+      "type": "electricity",
+      "description": "2022",
+      "amount": 514,
+      "date": "31/12/2022"
+    },
+    {
+      "id": 1762120429332,
+      "type": "electricity",
+      "description": "2023",
+      "amount": 387,
+      "date": "31/12/2023"
+    },
+    {
+      "id": 1762120429333,
+      "type": "electricity",
+      "description": "2024",
+      "amount": 377,
+      "date": "31/12/2024"
+    },
+    {
+      "id": 1762120429334,
+      "type": "electricity",
+      "description": "to 10/2025",
+      "amount": 332,
+      "date": "31/10/2025"
+    },
+    {
+      "id": 1762120429335,
+      "type": "other",
+      "description": "Autres Dépenses",
+      "amount": 638,
+      "date": "31/12/2022"
+    },
+    {
+      "id": 1762120429336,
+      "type": "other",
+      "description": "Autres Dépenses",
+      "amount": 1944,
+      "date": "31/12/2023"
+    },
+    {
+      "id": 1762120429337,
+      "type": "other",
+      "description": "Autres Dépenses",
+      "amount": 328,
+      "date": "31/12/2024"
+    },
+    {
+      "id": 1762120429338,
+      "type": "other",
+      "description": "Autres Dépenses to 10/2025",
+      "amount": 1430,
+      "date": "31/10/2025"
+    },
+    {
+      "id": 1762722812180,
+      "type": "cleaning",
+      "description": "Aucune description",
+      "amount": 200,
+      "date": "08/11/2025"
+    },
+    {
+      "id": 1762722843310,
+      "type": "electricity",
+      "description": "Aucune description",
+      "amount": 66,
+      "date": "09/11/2025"
+    }
+  ],
+  "lastGenerationDate": "11/2025"
+}
