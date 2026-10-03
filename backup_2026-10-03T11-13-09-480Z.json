@@ -1,0 +1,2957 @@
+{
+  "students": [
+    {
+      "id": 1791025963097,
+      "firstName": "RAYHANA",
+      "lastName": "HAMZAOUI",
+      "gender": "fille",
+      "birthDate": "2018-08-22",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "hamzaoui.rayhana",
+      "password": "Hamzaoui@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963142,
+      "firstName": "LOUJAYNE",
+      "lastName": "SALAH",
+      "gender": "fille",
+      "birthDate": "2018-02-06",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "salah.loujayne",
+      "password": "Salah@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963418,
+      "firstName": "JANNAT",
+      "lastName": "AASLI",
+      "gender": "fille",
+      "birthDate": "2017-12-16",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "aasli.jannat",
+      "password": "Aasli@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025962992,
+      "firstName": "YASSINE",
+      "lastName": "GOURICH",
+      "gender": "gar�on",
+      "birthDate": "2015-09-10",
+      "age": 11,
+      "class": "CM1 A",
+      "username": "gourich.yassine",
+      "password": "Gourich@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963307,
+      "firstName": "YASSER",
+      "lastName": "BOULAGHRASSE",
+      "gender": "gar�on",
+      "birthDate": "2017-08-25",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "boulaghrasse.yasser",
+      "password": "Boulaghrasse@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963472,
+      "firstName": "IMRANE",
+      "lastName": "BENHADRIA",
+      "gender": "gar�on",
+      "birthDate": "2017-05-08",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "benhadria.imrane",
+      "password": "Benhadria@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963372,
+      "firstName": "JAYDAE",
+      "lastName": "FALOSSI",
+      "gender": "fille",
+      "birthDate": "2017-09-15",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "falossi.jaydae",
+      "password": "Falossi@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963345,
+      "firstName": "MOHAMED",
+      "lastName": "MOUHSEN",
+      "gender": "gar�on",
+      "birthDate": "2017-08-29",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "mouhsen.mohamed",
+      "password": "Mouhsen@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963228,
+      "firstName": "NADA",
+      "lastName": "MAAROUFI",
+      "gender": "fille",
+      "birthDate": "2017-09-17",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "maaroufi.nada",
+      "password": "Maaroufi@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963665,
+      "firstName": "SALMA",
+      "lastName": "KASSEM",
+      "gender": "fille",
+      "birthDate": "2017-04-05",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "kassem.salma",
+      "password": "Kassem@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963439,
+      "firstName": "ANASS",
+      "lastName": "ELBOUHAFSSI",
+      "gender": "gar�on",
+      "birthDate": "2017-06-23",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "elbouhafssi.anass",
+      "password": "Elbouhafssi@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963543,
+      "firstName": "MOHAMED AMINE",
+      "lastName": "MGHABAR",
+      "gender": "gar�on",
+      "birthDate": "2017-10-12",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "mghabar.mohamedamine",
+      "password": "Mghabar@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963339,
+      "firstName": "MOHAMED-ZIAD",
+      "lastName": "KHAYNOUS",
+      "gender": "gar�on",
+      "birthDate": "2016-05-14",
+      "age": 10,
+      "class": "CM1 A",
+      "username": "khaynous.mohamedziad",
+      "password": "Khaynous@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963318,
+      "firstName": "ABDENNOUR",
+      "lastName": "ABOUMAJD",
+      "gender": "gar�on",
+      "birthDate": "2017-05-27",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "aboumajd.abdennour",
+      "password": "Aboumajd@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963298,
+      "firstName": "AHMED",
+      "lastName": "FARGAL",
+      "gender": "gar�on",
+      "birthDate": "2017-06-12",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "fargal.ahmed",
+      "password": "Fargal@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963238,
+      "firstName": "AYOUB",
+      "lastName": "CHAARAOUI",
+      "gender": "gar�on",
+      "birthDate": "2017-07-28",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "chaaraoui.ayoub",
+      "password": "Chaaraoui@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963384,
+      "firstName": "MALAK",
+      "lastName": "ELHADDAJI",
+      "gender": "fille",
+      "birthDate": "2017-07-22",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "elhaddaji.malak",
+      "password": "Elhaddaji@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963385,
+      "firstName": "HAJAR",
+      "lastName": "ELBAKRI",
+      "gender": "fille",
+      "birthDate": "2017-06-06",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "elbakri.hajar",
+      "password": "Elbakri@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963223,
+      "firstName": "HAFSA",
+      "lastName": "AMROUG",
+      "gender": "fille",
+      "birthDate": "2017-08-24",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "amroug.hafsa",
+      "password": "Amroug@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025962912,
+      "firstName": "YOUSSEF",
+      "lastName": "SABOUR",
+      "gender": "gar�on",
+      "birthDate": "2018-02-12",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "sabour.youssef",
+      "password": "Sabour@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963237,
+      "firstName": "TAIB",
+      "lastName": "JOURY",
+      "gender": "gar�on",
+      "birthDate": "2017-03-21",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "joury.taib",
+      "password": "Joury@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963405,
+      "firstName": "ALI REDA",
+      "lastName": "NESSAH",
+      "gender": "gar�on",
+      "birthDate": "2018-01-01",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "nessah.alireda",
+      "password": "Nessah@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963458,
+      "firstName": "WALID",
+      "lastName": "TAYOUK",
+      "gender": "gar�on",
+      "birthDate": "2018-02-05",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "tayouk.walid",
+      "password": "Tayouk@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963565,
+      "firstName": "AYOUB",
+      "lastName": "ADGHAIDAGH",
+      "gender": "gar�on",
+      "birthDate": "2017-12-14",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "adghaidagh.ayoub",
+      "password": "Adghaidagh@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963261,
+      "firstName": "KHADIJA",
+      "lastName": "KAMAL",
+      "gender": "fille",
+      "birthDate": "2017-07-24",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "kamal.khadija",
+      "password": "Kamal@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963063,
+      "firstName": "ABDELAZIZ",
+      "lastName": "ECH-CHAFAI",
+      "gender": "gar�on",
+      "birthDate": "2017-04-18",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "ech-chafai.abdelaziz",
+      "password": "Ech-chafai@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963711,
+      "firstName": "RITAJE",
+      "lastName": "ESSAFRI",
+      "gender": "fille",
+      "birthDate": "2018-02-05",
+      "age": 8,
+      "class": "CM1 A",
+      "username": "essafri.ritaje",
+      "password": "Essafri@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963402,
+      "firstName": "ISRAE",
+      "lastName": "TARRAS",
+      "gender": "fille",
+      "birthDate": "2017-08-02",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "tarras.israe",
+      "password": "Tarras@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    },
+    {
+      "id": 1791025963785,
+      "firstName": "AAMAR",
+      "lastName": "CHOKHMAANE",
+      "gender": "gar�on",
+      "birthDate": "2016-12-29",
+      "age": 9,
+      "class": "CM1 A",
+      "username": "chokhmaane.aamar",
+      "password": "Chokhmaane@12345",
+      "notes": "",
+      "registrationDate": "03/10/2026"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1762631040062,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-07",
+      "description": "1ère fois",
+      "createdAt": "08/11/2025",
+      "dateGiven": "2025-11-07",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:41:00"
+    },
+    {
+      "id": 1762763918549,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-10",
+      "description": "Les 4 premières leçons",
+      "createdAt": "10/11/2025",
+      "dateGiven": "2025-11-10",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:59"
+    },
+    {
+      "id": 1762772603110,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-10",
+      "description": "Les 3 premières leçons",
+      "createdAt": "10/11/2025",
+      "dateGiven": "2025-11-10",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:58"
+    },
+    {
+      "id": 1762857217204,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-11",
+      "description": "Les 3 premières leçons",
+      "createdAt": "11/11/2025",
+      "dateGiven": "2025-11-11",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:58"
+    },
+    {
+      "id": 1762871550313,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-11",
+      "description": "Les 4 premières leçons",
+      "createdAt": "11/11/2025",
+      "dateGiven": "2025-11-11",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:56"
+    },
+    {
+      "id": 1762875905516,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-11",
+      "description": "Devoir surveillé S1",
+      "createdAt": "11/11/2025",
+      "dateGiven": "2025-11-11",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:56"
+    },
+    {
+      "id": 1762876029983,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-12",
+      "description": "Devoir surveillé S1",
+      "createdAt": "11/11/2025",
+      "dateGiven": "2025-11-12",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:55"
+    },
+    {
+      "id": 1762936392305,
+      "title": "Correction des Cahiers",
+      "type": "correction",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-12",
+      "description": "Les 3 premières leçons",
+      "createdAt": "12/11/2025",
+      "dateGiven": "2025-11-12",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:55"
+    },
+    {
+      "id": 1763126672076,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-11",
+      "description": "Devoir surveillé S1",
+      "createdAt": "14/11/2025",
+      "dateGiven": "2025-11-11",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:55"
+    },
+    {
+      "id": 1763225647023,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-10",
+      "description": "Devoir surveillé S1",
+      "createdAt": "15/11/2025",
+      "dateGiven": "2025-11-10",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:54"
+    },
+    {
+      "id": 1763225930022,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-10",
+      "description": "Devoir Maison S1",
+      "createdAt": "15/11/2025",
+      "dateGiven": "2025-11-10",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:54"
+    },
+    {
+      "id": 1763226181462,
+      "title": "DM1",
+      "type": "Devoir",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-03",
+      "description": "Devoir Maison S1",
+      "createdAt": "15/11/2025",
+      "dateGiven": "2025-10-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:54"
+    },
+    {
+      "id": 1763226372487,
+      "title": "DS1",
+      "type": "controle",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-11",
+      "description": "Devoir S S1",
+      "createdAt": "15/11/2025",
+      "dateGiven": "2025-11-11",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:53"
+    },
+    {
+      "id": 1763375696761,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-04",
+      "description": "S1",
+      "createdAt": "17/11/2025",
+      "dateGiven": "2025-10-31",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:53"
+    },
+    {
+      "id": 1763376177156,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-04",
+      "description": "S1",
+      "createdAt": "17/11/2025",
+      "dateGiven": "2025-10-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:53"
+    },
+    {
+      "id": 1763376311838,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-03",
+      "description": "S1",
+      "createdAt": "17/11/2025",
+      "dateGiven": "2025-10-31",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:53"
+    },
+    {
+      "id": 1763376410057,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-04",
+      "description": "S1",
+      "createdAt": "17/11/2025",
+      "dateGiven": "2025-10-31",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:52"
+    },
+    {
+      "id": 1763376527619,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-11-03",
+      "description": "S1",
+      "createdAt": "17/11/2025",
+      "dateGiven": "2025-10-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "18/12/2025 11:40:49"
+    },
+    {
+      "id": 1766497524319,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-06",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:47"
+    },
+    {
+      "id": 1766497555219,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-05",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-29",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:47"
+    },
+    {
+      "id": 1766497594674,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-05",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-29",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:46"
+    },
+    {
+      "id": 1766497618540,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-06",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:46"
+    },
+    {
+      "id": 1766497674542,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-30",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-26",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:45"
+    },
+    {
+      "id": 1766497731070,
+      "title": "Devoir maison 2",
+      "type": "Devoir",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-29",
+      "description": "S1",
+      "createdAt": "23/12/2025",
+      "dateGiven": "2025-12-25",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:45"
+    },
+    {
+      "id": 1766996792208,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-29",
+      "description": "DS2",
+      "createdAt": "29/12/2025",
+      "dateGiven": "2025-12-29",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:44"
+    },
+    {
+      "id": 1767000509120,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-29",
+      "description": "S2",
+      "createdAt": "29/12/2025",
+      "dateGiven": "2025-12-29",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:44"
+    },
+    {
+      "id": 1767083060562,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-30",
+      "description": "DS2",
+      "createdAt": "30/12/2025",
+      "dateGiven": "2025-12-30",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:44"
+    },
+    {
+      "id": 1767092027466,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2025-12-30",
+      "description": "S1",
+      "createdAt": "30/12/2025",
+      "dateGiven": "2025-12-30",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:43"
+    },
+    {
+      "id": 1767869597087,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-08",
+      "description": "",
+      "createdAt": "08/01/2026",
+      "dateGiven": "2026-01-08",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:43"
+    },
+    {
+      "id": 1767870829300,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-08",
+      "description": "S1",
+      "createdAt": "08/01/2026",
+      "dateGiven": "2026-01-08",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:43"
+    },
+    {
+      "id": 1767879697694,
+      "title": "Correction des cahiers 2",
+      "type": "correction",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-08",
+      "description": "S1",
+      "createdAt": "08/01/2026",
+      "dateGiven": "2026-01-08",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:42"
+    },
+    {
+      "id": 1767955861113,
+      "title": "Correction des cahiers 2",
+      "type": "correction",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-09",
+      "description": "S1",
+      "createdAt": "09/01/2026",
+      "dateGiven": "2026-01-09",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:42"
+    },
+    {
+      "id": 1767957763903,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-09",
+      "description": "S1",
+      "createdAt": "09/01/2026",
+      "dateGiven": "2026-01-09",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:42"
+    },
+    {
+      "id": 1767967160874,
+      "title": "Correction des cahiers 2",
+      "type": "correction",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-09",
+      "description": "S1",
+      "createdAt": "09/01/2026",
+      "dateGiven": "2026-01-09",
+      "maxScore": null,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:41"
+    },
+    {
+      "id": 1768223453164,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-08",
+      "description": "S1",
+      "createdAt": "12/01/2026",
+      "dateGiven": "2026-01-12",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:41"
+    },
+    {
+      "id": 1768311381537,
+      "title": "Devoir surveillé 2",
+      "type": "controle",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-01-09",
+      "description": "S1",
+      "createdAt": "13/01/2026",
+      "dateGiven": "2026-01-13",
+      "maxScore": 20,
+      "archived": true,
+      "archivedAt": "30/03/2026 11:48:34"
+    },
+    {
+      "id": 1774867709108,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-03-30",
+      "description": "DM1 - S2",
+      "createdAt": "30/03/2026",
+      "dateGiven": "2026-03-27",
+      "maxScore": 20
+    },
+    {
+      "id": 1774868067406,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "DS1 - S2",
+      "createdAt": "30/03/2026",
+      "dateGiven": "2026-03-30",
+      "maxScore": 20
+    },
+    {
+      "id": 1774947286418,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "",
+      "createdAt": "31/03/2026",
+      "dateGiven": "2026-03-31",
+      "maxScore": 20
+    },
+    {
+      "id": 1774947315210,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "31/03/2026",
+      "dateGiven": "2026-03-31",
+      "maxScore": 20
+    },
+    {
+      "id": 1774960292449,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-03-31",
+      "description": "DM2 - S2",
+      "createdAt": "31/03/2026",
+      "dateGiven": "2026-03-26",
+      "maxScore": 20
+    },
+    {
+      "id": 1774960362342,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "31/03/2026",
+      "dateGiven": "2026-03-31",
+      "maxScore": 20
+    },
+    {
+      "id": 1775079818136,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CE6 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "01/04/2026",
+      "dateGiven": "2026-04-02",
+      "maxScore": null
+    },
+    {
+      "id": 1775120375914,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-01",
+      "description": "DM1 -S2",
+      "createdAt": "02/04/2026",
+      "dateGiven": "2026-03-27",
+      "maxScore": 20
+    },
+    {
+      "id": 1775127387656,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CM1 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "02/04/2026",
+      "dateGiven": "2026-04-02",
+      "maxScore": null
+    },
+    {
+      "id": 1775136854470,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "02/04/2026",
+      "dateGiven": "2026-04-02",
+      "maxScore": null
+    },
+    {
+      "id": 1775138663191,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-03-30",
+      "description": "DM1 - S2",
+      "createdAt": "02/04/2026",
+      "dateGiven": "2026-03-26",
+      "maxScore": 20
+    },
+    {
+      "id": 1775205771275,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "DS1 - S2",
+      "createdAt": "03/04/2026",
+      "dateGiven": "2026-04-03",
+      "maxScore": null
+    },
+    {
+      "id": 1775213423363,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CM1 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "DS1 - S2",
+      "createdAt": "03/04/2026",
+      "dateGiven": "2026-04-03",
+      "maxScore": null
+    },
+    {
+      "id": 1775223712542,
+      "title": "Correction des cahiers",
+      "type": "correction",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "DS1 - S2",
+      "createdAt": "03/04/2026",
+      "dateGiven": "2026-04-03",
+      "maxScore": null
+    },
+    {
+      "id": 1775477555194,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CM2 B",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-03",
+      "description": "DS1 - S2",
+      "createdAt": "06/04/2026",
+      "dateGiven": "2026-04-06",
+      "maxScore": 20
+    },
+    {
+      "id": 1775482498463,
+      "title": "Devoir surveillé 1",
+      "type": "controle",
+      "class": "CM2 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-02",
+      "description": "DS1 - S2",
+      "createdAt": "06/04/2026",
+      "dateGiven": "2026-04-06",
+      "maxScore": 20
+    },
+    {
+      "id": 1775555337219,
+      "title": "Devoir maison 1",
+      "type": "Devoir",
+      "class": "CE6 A",
+      "subject": "Mathématiques",
+      "dueDate": "2026-04-07",
+      "description": "DM1 - S2",
+      "createdAt": "07/04/2026",
+      "dateGiven": "2026-04-07",
+      "maxScore": 20
+    }
+  ],
+  "grades": [],
+  "attendance": [],
+  "lessons": [
+    {
+      "id": 1761641904004,
+      "date": "2025-10-27",
+      "class": "CE6",
+      "subject": "Mathématiques",
+      "duration": 180,
+      "title": "الاعداد العشرية الجمع ، الطرح والضرب",
+      "objectives": "جمع، طرح وضرب الاعداد العشريپ",
+      "content": "الجمع والطرح\nالضرب",
+      "homework": "التمارين : 7 ، 15 و 16",
+      "materials": "ص 23 و 24",
+      "status": "effectué",
+      "color": "#4361ee",
+      "createdAt": "28/10/2025 09:58:24",
+      "updatedAt": "31/10/2025 11:58:39",
+      "completionDate": "2025-10-31"
+    },
+    {
+      "id": 1761650203426,
+      "date": "2025-10-27",
+      "class": "CM1",
+      "subject": "Mathématiques",
+      "duration": 180,
+      "title": "Les nombres de 0 à 999 999",
+      "objectives": "Comprendre, lire, écrire et représenter les nombres jusqu’à 999 999.",
+      "content": "1-Écrire les nombres :\n2-Décomposition du nombre",
+      "homework": "3 - 6 - 7 - 1",
+      "materials": "pages : 21 et 22",
+      "status": "effectué",
+      "color": "#38b000",
+      "createdAt": "28/10/2025 12:16:43",
+      "updatedAt": "20/11/2025 10:05:04",
+      "completionDate": "2025-11-14",
+      "homeworkNotDone": [
+        1763575641990
+      ]
+    },
+    {
+      "id": 1761835542994,
+      "date": "2025-10-27",
+      "class": "CM2",
+      "subject": "Mathématiques",
+      "duration": 180,
+      "title": "Mesure de Longeurs, de Masses et des Aires",
+      "objectives": "Comprendre les notions de longueur, masse et aire.\n\nSavoir mesurer, estimer, comparer et convertir ces grandeurs.\n\nUtiliser les unités de mesure usuelles du système métrique et les instruments de mesure adaptés.\n\nAppliquer ces notions dans des situations concrètes et problèmes du quotidien.",
+      "content": "",
+      "homework": "1 - 2 - 3 - 4",
+      "materials": "Page : 22",
+      "status": "effectué",
+      "color": "#4cc9f0",
+      "createdAt": "30/10/2025 15:45:42",
+      "updatedAt": "14/11/2025 11:10:47",
+      "completionDate": "2025-11-14",
+      "homeworkNotDone": []
+    },
+    {
+      "id": 1763115208890,
+      "date": "2025-11-13",
+      "class": "CE6",
+      "subject": "Mathématiques",
+      "duration": 180,
+      "title": "المضاعفات و القواسم",
+      "objectives": "Voir Planification",
+      "content": "1) الاعداد الزوجية والفردية\n2) المضاعفات",
+      "homework": "8 - 9 - 15 | 6 - 7 - 11 - 13",
+      "materials": "Page : 31",
+      "status": "effectué",
+      "color": "#4361ee",
+      "completionDate": "2025-11-24",
+      "homeworkNotDone": [
+        1763575642224,
+        1763575642225,
+        1763575641706,
+        1763575641749,
+        1763575641572
+      ],
+      "createdAt": "14/11/2025 11:13:28",
+      "updatedAt": "25/11/2025 10:58:25"
+    },
+    {
+      "id": 1763404108847,
+      "date": "2025-11-13",
+      "class": "CM2",
+      "subject": "Mathématiques",
+      "duration": 240,
+      "title": "Les nombres décimaux : Operations",
+      "objectives": "",
+      "content": "",
+      "homework": "",
+      "materials": "",
+      "status": "effectué",
+      "color": "#4361ee",
+      "completionDate": "2025-11-28",
+      "homeworkNotDone": [
+        1763575641828,
+        1763575642262,
+        1763575641818
+      ],
+      "createdAt": "17/11/2025 19:28:28",
+      "updatedAt": "27/11/2025 14:44:56"
+    },
+    {
+      "id": 1763973781917,
+      "title": "القسمة: الخارج المضبوط",
+      "class": "CE6",
+      "date": "2025-11-24",
+      "subject": "Mathématiques",
+      "objectives": "فهم وإتقان القسمة مع خارج قسمة مضبوط (بدون باقي)",
+      "content": "تعريف، طريقة القسمة، أمثلة، التحقق بالضرب",
+      "homework": "تمارين 1 إلى 4 صفحة 52",
+      "materials": "دفتر، كتاب",
+      "duration": 180,
+      "status": "effectué",
+      "color": "#4361ee",
+      "createdAt": "24/11/2025 09:43:01",
+      "completionDate": "2025-12-15",
+      "homeworkNotDone": [
+        1763575641964,
+        1763575642225,
+        1763575642190,
+        1763575641749,
+        1763575641572
+      ],
+      "updatedAt": "15/12/2025 13:22:47"
+    },
+    {
+      "id": 1763980583144,
+      "title": "Organisation et traitement des données",
+      "class": "CM1",
+      "date": "2025-11-17",
+      "subject": "Mathématiques",
+      "objectives": "Collecter, organiser et représenter des données sous forme de tableaux et de graphiques",
+      "content": "Collecte de données, tableaux, diagrammes en bâtons, analyse simple",
+      "homework": "Exercices 1 - 2 et 1 et 7 pages 25 et 26 et 27",
+      "materials": "Crayons de couleur, papier quadrillé, règle",
+      "duration": 180,
+      "status": "effectué",
+      "color": "#4361ee",
+      "createdAt": "24/11/2025 11:36:22",
+      "completionDate": "2025-11-25",
+      "homeworkNotDone": [
+        1763575641773,
+        1763575642433,
+        1763575642041,
+        1763575642250,
+        1763575642320,
+        1763575642466
+      ],
+      "updatedAt": "25/11/2025 11:21:31"
+    },
+    {
+      "id": 1763984068547,
+      "title": "L'addition et la soustraction sur les nombres de 0 à 999 999",
+      "class": "CM1",
+      "date": "2025-11-24",
+      "subject": "Mathématiques",
+      "objectives": "Maîtriser les techniques opératoires de l'addition et de la soustraction avec des grands nombres",
+      "content": "Addition avec retenue, soustraction avec emprunt, problèmes concrets, vérification des résultats",
+      "homework": "Exercices 1, 4 et 5 page 31",
+      "materials": "Cahier d'exercices, ardoise, feutres",
+      "duration": 180,
+      "status": "effectué",
+      "color": "#4361ee",
+      "createdAt": "24/11/2025 12:34:27",
+      "completionDate": "2025-12-16",
+      "homeworkNotDone": [
+        1763575642365,
+        1763575642168,
+        1763575642296,
+        1763575642493
+      ],
+      "updatedAt": "19/12/2025 11:38:55"
+    },
+    {
+      "id": 1764598768111,
+      "date": "2025-12-01",
+      "class": "CM2",
+      "subject": "Mathématiques",
+      "duration": 45,
+      "title": "Les multiples et diviseurs",
+      "objectives": "",
+      "content": "",
+      "homework": "Exercices 1, 2 et 3 P 31 | Exercices 2 et 3 - 4 et 6 P 32 | 1 et 2 P 33",
+      "materials": "",
+      "status": "planifié",
+      "color": "#4361ee",
+      "completionDate": "",
+      "homeworkNotDone": [
+        1763575641762,
+        1763575641734,
+        1763575642480,
+        1763575641814,
+        1763575642393
+      ],
+      "createdAt": "01/12/2025 15:19:28",
+      "updatedAt": "19/12/2025 15:30:45"
+    },
+    {
+      "id": 1765884433369,
+      "date": "2025-12-15",
+      "class": "CE6",
+      "subject": "Mathématiques",
+      "duration": 180,
+      "title": "حساب محيط و مساحة المضلعات الاعتيادية",
+      "objectives": "",
+      "content": "",
+      "homework": "3 - 4 - 5 et 9",
+      "materials": "Page : 39",
+      "status": "planifié",
+      "color": "#4361ee",
+      "completionDate": "",
+      "homeworkNotDone": [
+        1763575642224,
+        1763575641620,
+        1763575642032,
+        1763575642225,
+        1763575641630
+      ],
+      "createdAt": "16/12/2025 12:27:13",
+      "updatedAt": "19/12/2025 09:17:40"
+    }
+  ],
+  "events": [
+    {
+      "id": 1762631040728,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-07",
+      "endDate": "2025-11-07",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1762631040062,
+      "createdAt": "08/11/2025 20:44:00",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": "imported_1762763452621_1",
+      "title": "Vacances d'automne",
+      "type": "vacation",
+      "startDate": "2025-10-19",
+      "endDate": "2025-10-26",
+      "description": "Vacances d'automne 2025",
+      "color": "#ff8787",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452622_2",
+      "title": "Vacances d’hiver",
+      "type": "vacation",
+      "startDate": "2025-12-07",
+      "endDate": "2025-12-14",
+      "description": "Vacances d’hiver 2025",
+      "color": "#ff8787",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452622_3",
+      "title": "Vacances de mi-semestre",
+      "type": "vacation",
+      "startDate": "2026-01-25",
+      "endDate": "2026-02-01",
+      "description": "Vacances de mi-semestre",
+      "color": "#ff8787",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452622_4",
+      "title": "Vacances de printemps 2",
+      "type": "vacation",
+      "startDate": "2026-05-03",
+      "endDate": "2026-05-10",
+      "description": "Vacances de printemps 2026",
+      "color": "#ff8787",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_5",
+      "title": "Vacances de printemps",
+      "type": "vacation",
+      "startDate": "2026-03-15",
+      "endDate": "2026-03-22",
+      "description": "Vacances de printemps 2026",
+      "color": "#ff8787",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_6",
+      "title": "Nouvel An Amazigh",
+      "type": "holiday",
+      "startDate": "2026-01-14",
+      "endDate": "2026-01-14",
+      "description": "Jour de l'Amazigh",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_7",
+      "title": "Nouvel An",
+      "type": "holiday",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
+      "description": "Jour de l'An",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_8",
+      "title": "Manifeste de l'Indépendance",
+      "type": "holiday",
+      "startDate": "2026-01-11",
+      "endDate": "2026-01-11",
+      "description": "Manifeste de l'Indépendance (11 janvier)",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_9",
+      "title": "Aïd al-Fitr",
+      "type": "religious",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-21",
+      "description": "Fête de rupture du jeûne (Aïd al-Fitr 1447H)",
+      "color": "#cc5de8",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452623_10",
+      "title": "Fête du Travail",
+      "type": "holiday",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-01",
+      "description": "Fête du Travail",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452624_11",
+      "title": "Aïd al-Adha",
+      "type": "religious",
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-29",
+      "description": "Fête du sacrifice (Aïd al-Adha 1447H)",
+      "color": "#cc5de8",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452624_12",
+      "title": "Nouvel An Hégirien",
+      "type": "religious",
+      "startDate": "2026-06-17",
+      "endDate": "2026-06-17",
+      "description": "Nouvel An Hégirien 1448",
+      "color": "#cc5de8",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452624_13",
+      "title": "Marche Verte",
+      "type": "holiday",
+      "startDate": "2025-11-06",
+      "endDate": "2025-11-06",
+      "description": "Anniversaire de la Marche Verte",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452624_14",
+      "title": "Fête de l'Indépendance",
+      "type": "holiday",
+      "startDate": "2025-11-18",
+      "endDate": "2025-11-18",
+      "description": "Fête de l'Indépendance",
+      "color": "#e64980",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": "imported_1762763452624_15",
+      "title": "Aïd al-Mawlid",
+      "type": "religious",
+      "startDate": "2026-08-05",
+      "endDate": "2026-08-06",
+      "description": "Anniversaire du Prophète (Aïd al-Mawlid 1448H)",
+      "color": "#cc5de8",
+      "isHoliday": true,
+      "classes": [
+        "toutes"
+      ],
+      "imported": true,
+      "createdAt": "10/11/2025 09:30:52"
+    },
+    {
+      "id": 1762763919081,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-10",
+      "endDate": "2025-11-10",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1762763918549,
+      "createdAt": "10/11/2025 09:38:38",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762772604078,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-10",
+      "endDate": "2025-11-10",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1762772603110,
+      "createdAt": "10/11/2025 12:03:23",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762857217954,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-11",
+      "endDate": "2025-11-11",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1762857217204,
+      "createdAt": "11/11/2025 11:33:37",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762871550939,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-11",
+      "endDate": "2025-11-11",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1762871550313,
+      "createdAt": "11/11/2025 15:32:30",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762875906421,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-11",
+      "endDate": "2025-11-11",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1762875905516,
+      "createdAt": "11/11/2025 16:45:05",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762876030152,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-12",
+      "endDate": "2025-11-12",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1762876029983,
+      "createdAt": "11/11/2025 16:47:09",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1762936392939,
+      "title": "Correction des Cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-12",
+      "endDate": "2025-11-12",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1762936392305,
+      "createdAt": "12/11/2025 09:33:12",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763126672201,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-11",
+      "endDate": "2025-11-11",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1763126672076,
+      "createdAt": "14/11/2025 14:24:32",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763225647517,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-10",
+      "endDate": "2025-11-10",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1763225647023,
+      "createdAt": "15/11/2025 17:54:07",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763225930612,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-10",
+      "endDate": "2025-11-10",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1763225930022,
+      "createdAt": "15/11/2025 17:58:50",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763226182055,
+      "title": "DM1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-03",
+      "endDate": "2025-11-03",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1763226181462,
+      "createdAt": "15/11/2025 18:03:01",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763226373217,
+      "title": "DS1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-11",
+      "endDate": "2025-11-11",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1763226372487,
+      "createdAt": "15/11/2025 18:06:12",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763375696927,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-04",
+      "endDate": "2025-11-04",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1763375696761,
+      "createdAt": "17/11/2025 11:34:56",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763376177895,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-04",
+      "endDate": "2025-11-04",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1763376177156,
+      "createdAt": "17/11/2025 11:42:57",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763376312878,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-03",
+      "endDate": "2025-11-03",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1763376311838,
+      "createdAt": "17/11/2025 11:45:11",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763376411102,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-04",
+      "endDate": "2025-11-04",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1763376410057,
+      "createdAt": "17/11/2025 11:46:50",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1763376527998,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-11-03",
+      "endDate": "2025-11-03",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1763376527619,
+      "createdAt": "17/11/2025 11:48:47",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497524908,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1766497524319,
+      "createdAt": "23/12/2025 14:45:24",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497555564,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-05",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1766497555219,
+      "createdAt": "23/12/2025 14:45:55",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497594829,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-05",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1766497594674,
+      "createdAt": "23/12/2025 14:46:34",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497618652,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1766497618540,
+      "createdAt": "23/12/2025 14:46:58",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497675177,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-30",
+      "endDate": "2025-12-30",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1766497674542,
+      "createdAt": "23/12/2025 14:47:54",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766497731734,
+      "title": "Devoir maison 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-29",
+      "endDate": "2025-12-29",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1766497731070,
+      "createdAt": "23/12/2025 14:48:51",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1766996792920,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-29",
+      "endDate": "2025-12-29",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1766996792208,
+      "createdAt": "29/12/2025 09:26:32",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767000509688,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-29",
+      "endDate": "2025-12-29",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1767000509120,
+      "createdAt": "29/12/2025 10:28:29",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767083061055,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-30",
+      "endDate": "2025-12-30",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1767083060562,
+      "createdAt": "30/12/2025 09:24:20",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767092028244,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2025-12-30",
+      "endDate": "2025-12-30",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1767092027466,
+      "createdAt": "30/12/2025 11:53:47",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767869597692,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-08",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1767869597087,
+      "createdAt": "08/01/2026 11:53:17",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767870829955,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-08",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1767870829300,
+      "createdAt": "08/01/2026 12:13:49",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767879698015,
+      "title": "Correction des cahiers 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-08",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1767879697694,
+      "createdAt": "08/01/2026 14:41:37",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767955861783,
+      "title": "Correction des cahiers 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-09",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1767955861113,
+      "createdAt": "09/01/2026 11:51:01",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767957764350,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-09",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1767957763903,
+      "createdAt": "09/01/2026 12:22:43",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1767967161157,
+      "title": "Correction des cahiers 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-09",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1767967160874,
+      "createdAt": "09/01/2026 14:59:20",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1768223453788,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-08",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1768223453164,
+      "createdAt": "12/01/2026 14:10:53",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1768311382260,
+      "title": "Devoir surveillé 2",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-09",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1768311381537,
+      "createdAt": "13/01/2026 14:36:21",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774867709234,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-03-30",
+      "endDate": "2026-03-30",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1774867709108,
+      "createdAt": "30/03/2026 11:48:29",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774868067536,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1774868067406,
+      "createdAt": "30/03/2026 11:54:27",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774947287335,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1774947286418,
+      "createdAt": "31/03/2026 09:54:46",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774947315518,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1774947315210,
+      "createdAt": "31/03/2026 09:55:15",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774960292938,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-03-31",
+      "endDate": "2026-03-31",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1774960292449,
+      "createdAt": "31/03/2026 13:31:32",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1774960362775,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1774960362342,
+      "createdAt": "31/03/2026 13:32:42",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775079818927,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CE6 B",
+      "classes": [
+        "CE6 B"
+      ],
+      "assignmentId": 1775079818136,
+      "createdAt": "01/04/2026 22:43:38",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775120376691,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1775120375914,
+      "createdAt": "02/04/2026 09:59:35",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775127388053,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CM1 A",
+      "classes": [
+        "CM1 A"
+      ],
+      "assignmentId": 1775127387656,
+      "createdAt": "02/04/2026 11:56:27",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775136855192,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1775136854470,
+      "createdAt": "02/04/2026 14:34:14",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775138663665,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-03-30",
+      "endDate": "2026-03-30",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1775138663191,
+      "createdAt": "02/04/2026 15:04:23",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775205771403,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1775205771275,
+      "createdAt": "03/04/2026 09:42:51",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775213423680,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CM1 B",
+      "classes": [
+        "CM1 B"
+      ],
+      "assignmentId": 1775213423363,
+      "createdAt": "03/04/2026 11:50:23",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775223713286,
+      "title": "Correction des cahiers",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1775223712542,
+      "createdAt": "03/04/2026 14:41:52",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775477556009,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-03",
+      "description": "Devoir: Mathématiques - CM2 B",
+      "classes": [
+        "CM2 B"
+      ],
+      "assignmentId": 1775477555194,
+      "createdAt": "06/04/2026 13:12:35",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775482499149,
+      "title": "Devoir surveillé 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-02",
+      "description": "Devoir: Mathématiques - CM2 A",
+      "classes": [
+        "CM2 A"
+      ],
+      "assignmentId": 1775482498463,
+      "createdAt": "06/04/2026 14:34:58",
+      "isUserEvent": true,
+      "version": 1
+    },
+    {
+      "id": 1775555338104,
+      "title": "Devoir maison 1",
+      "type": "assignment",
+      "color": "#b197fc",
+      "startDate": "2026-04-07",
+      "endDate": "2026-04-07",
+      "description": "Devoir: Mathématiques - CE6 A",
+      "classes": [
+        "CE6 A"
+      ],
+      "assignmentId": 1775555337219,
+      "createdAt": "07/04/2026 10:48:57",
+      "isUserEvent": true,
+      "version": 1
+    }
+  ],
+  "sequences": [],
+  "sessions": [
+    {
+      "id": 1761997688967,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-30",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T11:48:08.967Z"
+    },
+    {
+      "id": 1761997704198,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-31",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T11:48:24.198Z"
+    },
+    {
+      "id": 1761997716113,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-10-31",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T11:48:36.113Z"
+    },
+    {
+      "id": 1761997730732,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-10-29",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T11:48:50.732Z"
+    },
+    {
+      "id": 1762003458276,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-10-23",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:24:18.276Z"
+    },
+    {
+      "id": 1762003544292,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-10-08",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:25:44.292Z"
+    },
+    {
+      "id": 1762003572153,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-10-15",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:26:12.153Z"
+    },
+    {
+      "id": 1762003582823,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-10-22",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:26:22.823Z"
+    },
+    {
+      "id": 1762003631075,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-02",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:27:11.075Z"
+    },
+    {
+      "id": 1762003646200,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-05",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:27:26.200Z"
+    },
+    {
+      "id": 1762003658008,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-07",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:27:38.008Z"
+    },
+    {
+      "id": 1762003669657,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-09",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:27:49.657Z"
+    },
+    {
+      "id": 1762003685102,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-12",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:28:05.102Z"
+    },
+    {
+      "id": 1762003702800,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-14",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:28:22.800Z"
+    },
+    {
+      "id": 1762003713088,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-16",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:28:33.088Z"
+    },
+    {
+      "id": 1762003728232,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-10-19",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-01T13:28:48.232Z"
+    },
+    {
+      "id": 1762183541821,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-02",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-03T15:25:41.821Z"
+    },
+    {
+      "id": 1762451648097,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-06",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-06T17:54:08.097Z"
+    },
+    {
+      "id": 1762451713045,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-11-05",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-06T17:55:13.045Z"
+    },
+    {
+      "id": 1762451740988,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-04",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-06T17:55:40.988Z"
+    },
+    {
+      "id": 1762451828921,
+      "studentId": 1762451815735,
+      "type": "individuel",
+      "date": "2025-11-05",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-06T17:57:08.921Z"
+    },
+    {
+      "id": 1762717741366,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-11-07",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-09T19:49:01.366Z"
+    },
+    {
+      "id": 1762717747733,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-09",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-09T19:49:07.733Z"
+    },
+    {
+      "id": 1762809936605,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-11-10",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-10T21:25:36.605Z"
+    },
+    {
+      "id": 1762895351185,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-11",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-11T21:09:11.185Z"
+    },
+    {
+      "id": 1762986679246,
+      "studentId": 1762451815735,
+      "type": "individuel",
+      "date": "2025-11-12",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-12T22:31:19.246Z"
+    },
+    {
+      "id": 1762986684179,
+      "studentId": 1762451815735,
+      "type": "individuel",
+      "date": "2025-11-12",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-12T22:31:24.179Z"
+    },
+    {
+      "id": 1763068653782,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-13",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-13T21:17:33.782Z"
+    },
+    {
+      "id": 1763491627687,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-18",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-18T18:47:07.687Z"
+    },
+    {
+      "id": 1763491636339,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-16",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-18T18:47:16.339Z"
+    },
+    {
+      "id": 1763491681577,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-11-14",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-18T18:48:01.577Z"
+    },
+    {
+      "id": 1763578933689,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-11-19",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-19T19:02:13.689Z"
+    },
+    {
+      "id": 1763804435644,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-20",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-22T09:40:35.644Z"
+    },
+    {
+      "id": 1763805019018,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-11-21",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-22T09:50:19.018Z"
+    },
+    {
+      "id": 1764252511817,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-23",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-27T14:08:31.817Z"
+    },
+    {
+      "id": 1764252520242,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-25",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-27T14:08:40.242Z"
+    },
+    {
+      "id": 1764451043027,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-11-26",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-29T21:17:23.027Z"
+    },
+    {
+      "id": 1764451051725,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-11-28",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-11-29T21:17:31.725Z"
+    },
+    {
+      "id": 1764664641293,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-11-30",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-02T08:37:21.293Z"
+    },
+    {
+      "id": 1766167462238,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-02",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:04:22.238Z"
+    },
+    {
+      "id": 1766167471071,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-07",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:04:31.071Z"
+    },
+    {
+      "id": 1766167480876,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-12-06",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:04:40.876Z"
+    },
+    {
+      "id": 1766167488214,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-12-08",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:04:48.214Z"
+    },
+    {
+      "id": 1766167527419,
+      "studentId": 1761997665420,
+      "type": "individuel",
+      "date": "2025-12-05",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:05:27.419Z"
+    },
+    {
+      "id": 1766167548707,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-12-03",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:05:48.707Z"
+    },
+    {
+      "id": 1766167572791,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-04",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:06:12.791Z"
+    },
+    {
+      "id": 1766167635194,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-09",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:07:15.194Z"
+    },
+    {
+      "id": 1766167643758,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-14",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:07:23.758Z"
+    },
+    {
+      "id": 1766167659621,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-15",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:07:39.621Z"
+    },
+    {
+      "id": 1766167665331,
+      "studentId": 1761997515164,
+      "type": "individuel",
+      "date": "2025-12-16",
+      "amount": 200,
+      "paid": false,
+      "notes": "",
+      "createdAt": "2025-12-19T18:07:45.331Z"
+    },
+    {
+      "id": 1766167672047,
+      "studentId": 1761997594121,
+      "type": "individuel",
+      "date": "2025-12-16",
+      "amount": 200,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:07:52.047Z"
+    },
+    {
+      "id": 1766167726677,
+      "studentId": 1766167406865,
+      "type": "individuel",
+      "date": "2025-12-01",
+      "amount": 150,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:08:46.677Z"
+    },
+    {
+      "id": 1766167731611,
+      "studentId": 1766167406865,
+      "type": "individuel",
+      "date": "2025-12-02",
+      "amount": 150,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:08:51.611Z"
+    },
+    {
+      "id": 1766167737459,
+      "studentId": 1766167406865,
+      "type": "individuel",
+      "date": "2025-12-03",
+      "amount": 150,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:08:57.459Z"
+    },
+    {
+      "id": 1766167745653,
+      "studentId": 1766167406865,
+      "type": "individuel",
+      "date": "2025-12-04",
+      "amount": 150,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:09:05.653Z"
+    },
+    {
+      "id": 1766167751348,
+      "studentId": 1766167406865,
+      "type": "individuel",
+      "date": "2025-12-05",
+      "amount": 150,
+      "paid": true,
+      "notes": "",
+      "createdAt": "2025-12-19T18:09:11.348Z"
+    }
+  ],
+  "backupDate": "2026-10-03T11:13:09.478Z",
+  "version": "2.0",
+  "type": "manual"
+}
